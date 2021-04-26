@@ -4,5 +4,5 @@
 - Projects
 
   - [Power Comp](power-comp)
-  - [Lift Mate](lift-mate)
+  <!-- - [Lift Mate](lift-mate) -->
   

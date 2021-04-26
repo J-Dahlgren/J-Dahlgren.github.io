@@ -6,9 +6,11 @@
 
 Consultant
 
-### 2014 - 2019, Prevas AB
+### 2016 - 2019, Prevas AB
 
-Consultant
+Consultant / Developer. 
+
+Was employed part time from 2014 while studying Computer Science and switched to fulltime once I completed my studies.
 
 ## Projects and Assignments
 
