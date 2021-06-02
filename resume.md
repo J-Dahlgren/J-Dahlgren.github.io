@@ -14,11 +14,19 @@ Was employed part time from 2014 while studying Computer Science and switched to
 
 ## Projects and Assignments
 
-### 2021-02 - Ongoing, Skolon
+### 2021-06 - Ongoing, Play'n GO, 100% remote
 
 - Role: Backend developer
+- Tools: C#, Mysql.
 
-- Tools: Node js, Express, Mysql.
+
+### 2021-02 - 2021-06, Skolon, 100% remote
+
+- Role: Backend developer
+- Tools: Node js, Express, Mysql, Java.
+
+Maintained Skolons existing user data synchronization software (NodeJS/Express) as well as building new integrations to new clients.
+Also assisted updating their Java backend needed for their migration from Google App Engine to Java Spring.
 
 ### 2020-10 - 2021-01, Precure
 
