@@ -17,7 +17,7 @@ Was employed part time from 2014 while studying Computer Science and switched to
 ### 2021-06 - Ongoing, Play'n GO, 100% remote
 
 - Role: Backend developer
-- Tools: C#, Mysql.
+- Tools: C#, Mysql, Docker, Octopus Deploy, Jira.
 
 
 ### 2021-02 - 2021-06, Skolon, 100% remote
