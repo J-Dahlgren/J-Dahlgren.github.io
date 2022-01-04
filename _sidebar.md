@@ -3,6 +3,5 @@
 
 - Projects
 
-  - [Power Comp](power-comp)
-  <!-- - [Lift Mate](lift-mate) -->
+  - [Power Comp](power-comp)  
   

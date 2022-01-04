@@ -17,8 +17,11 @@ Was employed part time from 2014 while studying Computer Science and switched to
 ### 2021-06 - Ongoing, Play'n GO, 100% remote
 
 - Role: Backend developer
-- Tools: C#, Mysql, Docker, Octopus Deploy, Jira.
+- Tools: C#.NET, ASP.NET Core, Angular/NodeJs/Typescript, MySQL, Visual Studio, Git, Octopus Deploy.
 
+I am part of a team that develops and maintains PlayNGo’s leaderboard feature (backend). Much of
+my work consists of finding and fixing bugs and making general improvements. I was also part of
+creating a user interface made in Angular that interacts with their backend services.
 
 ### 2021-02 - 2021-06, Skolon, 100% remote
 
