@@ -3,7 +3,7 @@
 
 ![IMG](images/profile.jpeg)
 ## About
-Jesper is a very dedicated system developer at work as well as in his free time. He is versatile and capable of building complete systems with electronics/embedded software, user interfaces and backend solutions combined.
+I am a very dedicated system developer at work as well as in my free time. I'm versatile and capable of building complete systems with electronics/embedded software, user interfaces and backend solutions combined.
 
 ### Most proud of
 
