@@ -25,11 +25,11 @@ It is a competition management system for powerlifting. It is web based where th
 ### 2021-06 - Ongoing, Play'n GO, 100% remote
 
 - Role: Backend developer
-- Tools: C#.NET, ASP.NET Core, Angular/NodeJs/Typescript, MySQL, Visual Studio, Git, Octopus Deploy.
+- Tools: C#.NET, ASP.NET Core, Angular/NodeJs/Typescript, MySQL, Visual Studio, Git, Octopus Deploy, AWS CDK.
 
 I am part of a team that develops and maintains PlayNGo’s leaderboard feature (backend). Much of
 my work consists of adding new features to their services. I was also part of
-creating a user interface made in Angular that interacts with their backend services.
+creating a user interface made in Angular that interacts with their backend services. I'm responsible developing the deployment pipeline with AWS CDK (Cloud Development Kit) for this user interface, I was the first in our team to use this tool and my work with the CDK serves as a template for the other projects our team manages.
 The team I work in consist of 10 people, where we work in an agile manner with a Kanban board.
 
 ### 2021-02 - 2021-06, Skolon, 100% remote
