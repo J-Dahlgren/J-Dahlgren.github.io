@@ -24,13 +24,15 @@ It is a competition management system for powerlifting. It is web based where th
 
 ### 2021-06 - Ongoing, Play'n GO, 100% remote
 
-- Role: Backend developer
-- Tools: C#.NET, ASP.NET Core, Angular/NodeJs/Typescript, MySQL, Visual Studio, Git, Octopus Deploy, AWS CDK.
+- Role: Fullstack developer
+- Tools: C#.NET, ASP.NET Core, Angular/NodeJs/Typescript, MySQL, Docker, Git, Octopus Deploy, AWS CDK.
 
-I am part of a team that develops and maintains PlayNGo’s leaderboard feature (backend). Much of
-my work consists of adding new features to their services. I was also part of
-creating a user interface made in Angular that interacts with their backend services. I'm responsible developing the deployment pipeline with AWS CDK (Cloud Development Kit) for this user interface, I was the first in our team to use this tool and my work with the CDK serves as a template for the other projects our team manages.
-The team I work in consist of 10 people, where we work in an agile manner with a Kanban board.
+I'm part of a team that develops and maintains PlayNGo’s leaderboard feature (Web Api, C#.NET, MS Orleans). Much of my work consists of adding new features to their services. I also took part in creating a user interface made in Angular that interacts with their backend services.
+
+I'm responsible for developing the deployment pipeline with AWS CDK (Cloud Development Kit) for this user interface. I was the first in our team to use this tool and my work with the CDK serves as a template for the other projects our team manages. Currently working on migrating the old infrastructure in AWS to use CDK in a new environment. This project is more complex than the previous due to greater requirments, such as Database, logging, redundancy, networking etc.
+The team I work in consist of 10 people, where we work in an agile manner with a Kanban board in Jira.
+Some other tools I also work with are Bitbucket (git), TeamCity, Octopus Deploy and AWS.
+
 
 ### 2021-02 - 2021-06, Skolon, 100% remote
 
